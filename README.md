@@ -2,10 +2,10 @@
 
 My name is JOse
 
-##Git Module
+## Git Module
 
 I am learning Git
 
-##GitHub Module
+## GitHub Module
 
 I am learning GitHub
