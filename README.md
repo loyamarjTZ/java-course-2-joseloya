@@ -1,6 +1,6 @@
 # java-course-2-joseloya
 
-My name is JOse
+My name is Jose
 
 ## Git Module
 
